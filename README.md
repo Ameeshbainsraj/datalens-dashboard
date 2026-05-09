@@ -10,8 +10,7 @@
 
 ## 🌐 Live Demo
 
-👉 **[View Live App](https://datalens-dashboard-xi.vercel.app/)** ← *(paste your Vercel URL here after deploying)*
-
+👉 **[View Live App](https://datalens-dashboard-xi.vercel.app/)**
 ---
 
 ## 🎯 Why I Built This
@@ -104,42 +103,13 @@ datalens-dashboard/
 
 ---
 
-## 🚀 Run Locally
 
-No install needed:
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/Ameeshbainsraj/datalens-dashboard.git
-   ```
-2. Open `index.html` in your browser
-3. Upload any CSV or click a sample dataset to explore
-
----
-
-## 🗺 Roadmap — What's Coming Next
-
-This is the first project in a growing data analytics portfolio:
-
-- [ ] **AI-Powered Data Q&A** — ask plain-English questions about your CSV, get answers + charts (Claude API)
-- [ ] **Predictive Analytics App** — upload historical data, train a regression model, visualise predictions
-- [ ] Column correlation heatmap
-- [ ] Export charts as PNG / PDF report
-- [ ] Row filtering and search
-- [ ] Connect to live data sources (APIs, Google Sheets)
-
----
 
 ## 👤 About Me
 
 I'm actively building a career in data analytics, developing hands-on skills in data visualisation, statistical analysis, SQL, and Python. This project is part of a portfolio of real tools I'm building to demonstrate those skills in practice rather than just on paper.
 
-- 💼 **LinkedIn:** [Ameesh Bainsraj](https://linkedin.com/in/ameeshbainsraj) ← *update this link*
+- 💼 **LinkedIn:** [Ameesh Bainsraj](https://www.linkedin.com/in/ameesh-bainsraj/) ← *update this link*
 - 🐙 **GitHub:** [@Ameeshbainsraj](https://github.com/Ameeshbainsraj)
-- 📧 **Email:** your@email.com ← *update this*
+- 📧 **Email:** Ameeshbainsraj.prof@gmail.com ← *update this*
 
----
-
-## 📄 Licence
-
-MIT — free to use, fork, and build on.
