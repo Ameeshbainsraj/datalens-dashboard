@@ -109,7 +109,7 @@ datalens-dashboard/
 
 I'm actively building a career in data analytics, developing hands-on skills in data visualisation, statistical analysis, SQL, and Python. This project is part of a portfolio of real tools I'm building to demonstrate those skills in practice rather than just on paper.
 
-- 💼 **LinkedIn:** [Ameesh Bainsraj](https://www.linkedin.com/in/ameesh-bainsraj/) ← *update this link*
+- 💼 **LinkedIn:** [Ameesh Bainsraj](https://www.linkedin.com/in/ameesh-bainsraj/) 
 - 🐙 **GitHub:** [@Ameeshbainsraj](https://github.com/Ameeshbainsraj)
-- 📧 **Email:** Ameeshbainsraj.prof@gmail.com ← *update this*
+- 📧 **Email:** Ameeshbainsraj.prof@gmail.com 
 
