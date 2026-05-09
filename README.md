@@ -10,7 +10,7 @@
 
 ## 🌐 Live Demo
 
-👉 **[View Live App](#)** ← *(paste your Vercel URL here after deploying)*
+👉 **[View Live App](https://datalens-dashboard-xi.vercel.app/)** ← *(paste your Vercel URL here after deploying)*
 
 ---
 
